@@ -163,4 +163,4 @@ Este projeto está em desenvolvimento e funcionando como base para um portal ins
 
 ## 👨‍💻 Equipe de Desenvolvimento
 
-Desenvolvido pelo time de TI (Tecnologia da Informação) da Singapura, composto pelos desenvolvedores Gustavo Millamonte e Judisson Mateus Aguiar dos Anjos.
+Desenvolvido pelo time de TI (Tecnologia da Informação) da Singapura Construções e Montagens Industriais, composto pelos desenvolvedores Gustavo Millamonte e Judisson Mateus Aguiar dos Anjos.
